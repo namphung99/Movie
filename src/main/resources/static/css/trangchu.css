@@ -1,0 +1,11 @@
+.slide{
+    max-height: 410px !important;
+}
+
+.carousel-item img{
+    height: 360px !important;
+}
+
+.image-item img{
+    height: 140px !important;
+}

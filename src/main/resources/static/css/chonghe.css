@@ -1,0 +1,49 @@
+
+.table-cinema{
+    margin-top: 50px;
+}
+
+tbody tr td{
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid #585757;
+    background-color: #a8a8a8 !important;
+    color:#ffffff
+}
+tbody tr td:hover{
+    background-color: #585858 !important;
+}
+
+.note span{
+    width: 120px;
+    display: inline-block;
+}
+
+.note .empty{
+    background-color: #a8a8a8;
+    height: 36px;
+    width: 100px;
+}
+
+.note .note-empty{
+    background-color: #d88100;
+    height: 36px;
+    width: 100px;
+}
+
+.note .picking{
+    background-color: #782828;
+    height: 36px;
+    width: 100px;
+}
+.note .note__item button:hover{
+    background-color: #c7c7c7;
+}
+
+.note__item{
+    align-items: center;
+}
+
+a.text-light{
+    text-decoration: none;
+}

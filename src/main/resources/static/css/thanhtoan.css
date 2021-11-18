@@ -1,0 +1,65 @@
+.id-card{
+    align-items: center;
+}
+
+.id-card form{
+    width: 40%;
+}
+
+.id-card__info{
+    width: 60%;
+    align-items: center;
+}
+
+.id-card__info button{
+    min-width: 100px;
+}
+
+.quantity-select{
+    width: 150px;
+}
+
+.bill{
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    box-shadow:0 1px 2px #ccc;
+    padding: 20px;
+}
+
+.bill h4{
+    text-align: center;
+    margin-bottom:20px;
+}
+
+.bill__content{
+    padding: 20px;
+    width: 700px;
+    margin: 0 auto;
+    background-color: rgb(238, 238, 238);
+    border-radius: 3px;
+}
+
+.bill__content--item{
+    display: flex;
+}
+
+.item__title{
+    width: 50%;
+}
+
+.item__content{
+    width: 50%;
+
+}
+
+.border-bottom{
+    border-bottom: 1px solid #ccc !important;
+    margin: 10px 0;
+}
+
+.bill__submit{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
